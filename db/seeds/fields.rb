@@ -45,7 +45,7 @@
       ]
     },
     {
-      :params => {:label => 'Web presence', :tooltip => ''},
+      :params => {:label => 'Internet Presence', :tooltip => ''},
       :fields => [
 
       ]

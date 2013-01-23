@@ -1,0 +1,23 @@
+--- 
+open_files: 
+  - app/views/home/index.html.haml
+  - config/routes.rb
+  - app/views/admin/users/index.html.haml
+  - app/views/admin/users/index.js.rjs
+  - app/views/admin/fields/index.html.haml
+  - db/seeds/fields.rb
+  - app/views/layouts/application.html.haml
+  - app/views/layouts/header.xls.builder
+  - app/views/layouts/_about.html.haml
+  - app/views/layouts/_header.html.haml
+  - app/views/layouts/_jumpbox.html.haml
+  - app/views/layouts/_sidebar.html.haml
+  - app/views/layouts/_footer.html.haml
+  - app/controllers/admin/application_controller.rb
+  - app/controllers/admin/fields_controller.rb
+  - app/controllers/admin/plugins_controller.rb
+  - app/controllers/admin/tags_controller.rb
+  - app/controllers/admin/settings_controller.rb
+  - app/controllers/application_controller.rb
+  - app/controllers/home_controller.rb
+  - db/schema.rb
